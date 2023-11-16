@@ -20,5 +20,5 @@ HOST-SUFFIX,poe.com,OpenAI
 HOST-SUFFIX,sentry.io,OpenAI
 HOST-SUFFIX,stripe.com,OpenAI
 HOST-KEYWORD,openai,OpenAI
-HOST-SUFFIX,oaistatic.com
-HOST-SUFFIX,oaiusercontent.com
+HOST-SUFFIX,oaistatic.com,OpenAI
+HOST-SUFFIX,oaiusercontent.com,OpenAI
