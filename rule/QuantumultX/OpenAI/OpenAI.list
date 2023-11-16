@@ -4,8 +4,8 @@
 # UPDATED: 2023-10-28 02:15:45
 # HOST: 1
 # HOST-KEYWORD: 1
-# HOST-SUFFIX: 12
-# TOTAL: 14
+# HOST-SUFFIX: 14
+# TOTAL: 16
 HOST,ai.cn,OpenAI
 HOST-SUFFIX,ai.com,OpenAI
 HOST-SUFFIX,auth0.com,OpenAI
@@ -20,3 +20,5 @@ HOST-SUFFIX,poe.com,OpenAI
 HOST-SUFFIX,sentry.io,OpenAI
 HOST-SUFFIX,stripe.com,OpenAI
 HOST-KEYWORD,openai,OpenAI
+HOST-SUFFIX,oaistatic.com
+HOST-SUFFIX,oaiusercontent.com
